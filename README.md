@@ -4,7 +4,7 @@ English version:
 - 🌱 I’m currently learning frontend developing
 - 💞️ I’m looking to collaborate on data story or data viz project
 - :writing_hand: I'm writing R related articles on https://r-lover.com/ recenctly, hoping that everyone will love R
-- 📫 How to reach me: You can contact me via the for in my blog: https://dennisrdatanews.netlify.app/ 
+- 📫 How to reach me: You can contact me via the form in my blog: https://dennisrdatanews.netlify.app/ 
 
 中文版本：
 - 👋 我是 Dennis，很高興認識你！
